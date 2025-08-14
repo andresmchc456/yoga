@@ -1,0 +1,22 @@
+.left-section {
+  background-color: #e74c3c; /* Color zapote */
+  color: white;
+  padding: 40px 30px; /* Espaciado reducido */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 30px; /* Altura más baja */
+}
+
+.img-cover {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  min-height: 10px; /* Igual que la izquierda */
+}
+
+.program-section {
+  background-color: #fff5eb;
+  padding: 50px 10px;
+  text-align: center;
+}
