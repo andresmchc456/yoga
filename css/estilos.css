@@ -20,3 +20,31 @@
   padding: 50px 10px;
   text-align: center;
 }
+
+/* estilos de secretos de yoga */
+.yoga-section {
+      background-color: #111; /* Fondo oscuro */
+      color: #fff;
+      padding: 60px 0;
+}
+
+.yoga-section p {
+  color: #bbb; /* Texto gris claro */
+}
+
+/* estilos nutre tu alma */
+.yoga-section-green {
+  background-color: #C4E3E0; /* Fondo verde claro */
+  padding: 60px 0;
+}
+.yoga-section-green p {
+  color: #444; /* Texto gris oscuro */
+}
+.btn-dark-custom {
+  background-color: #111;
+  color: #fff;
+  border: none;
+}
+.btn-dark-custom:hover {
+  background-color: #333;
+}
