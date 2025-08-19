@@ -6,5 +6,5 @@ async function cargarModulo(url, contenedorId) {
 }
 
 // Llamadas para cargar los módulos
-cargarModulo('hola.html', 'modulo-hola');// Cargar el módulo hola.html en el contenedor con id 'modulo-hola'
-cargarModulo('color.html', 'color');
+cargarModulo('DescubreTupasion.html', 'DescubreTupasion');// Cargar el módulo hola.html en el contenedor con id 'DescubreTupasion'
+cargarModulo('secretosYoga.html', 'secretosYoga');
